@@ -15,19 +15,6 @@
 
 </div>
 
-## Was ich gerade baue
-
-### Meili Hub
-
-Ein persönliches, selbst gehostetes Dashboard mit geschütztem Wiki, RSS-/Atom-Nachrichtenzentrale, Medienübersicht, Systemverwaltung und Dev Center.
-
-Dabei beschäftige ich mich besonders mit:
-
-- zuverlässigen und schnellen Benutzeroberflächen
-- sicherer Authentifizierung und sauberer Datentrennung
-- robustem Speichern, Versionieren und Wiederherstellen
-- sinnvollen Integrationen für den täglichen Gebrauch
-
 ## Mein Werkzeugkasten
 
 `Next.js` · `React` · `TypeScript` · `Node.js` · `Prisma` · `SQLite` · `Tailwind CSS` · `Git`
